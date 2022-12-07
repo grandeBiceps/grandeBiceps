@@ -8,3 +8,5 @@ I was also involved in our recruitment process when we were hiring new colleague
 - 🌱 I’m currently learning Business Information Technology in VAMK.
 
 - 👀 I’m interested in Data Analytics, Cloud Services, Front-end web development and UI/UX design. 
+
+- 🏋️ I spend most of my free time with my family, outdoors or at the gym 
